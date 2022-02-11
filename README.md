@@ -1,4 +1,4 @@
-### Hi there friends 👋
+### Hi there friends 👋 , I'm currently learning python , so majority of my projects are in python. Happy to help if anyone needs help with python or github basic functions whenever possible. Thank You all.
 
 <!--
 **joey1089/joey1089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
