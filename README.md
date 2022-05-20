@@ -1,4 +1,5 @@
-### Hi there friends 👋 , I'm currently learning python , so majority of my projects are in python. Happy to help if anyone needs help with python or github basic functions whenever possible. Thank You all.
+### Hi there friends 👋 , I'm currently learning python,bash and all the DevOps technologies , so majority of my projects are in python. Happy to help if anyone needs help with python or github basic functions. Thank You all.
+Reach out to me on Twitter @josephvpeter
 
 <!--
 **joey1089/joey1089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
