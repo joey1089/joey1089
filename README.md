@@ -1,4 +1,4 @@
-### Hi there friends 👋 , I'm currently learning python,bash and all the DevOps technologies , so majority of my projects are in python. Happy to help if anyone needs help with python or github basic functions. Thank You all.
+### Hi there friends 👋 ,Learning DevOps technologies and doing DevOps projects to improve my skill set to be a good fit, so join me here to experience the projects for yourself. I appreciate any positive feedback on any project and checkout my medium blogs - https://medium.com/@josephvpeter7
 📫 How to reach me: Twitter: @josephvpeter
 
 <!--
