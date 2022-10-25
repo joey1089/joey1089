@@ -1,4 +1,4 @@
-### Hi there friends 👋 ,I'm Learning DevOps technologies and doing DevOps projects to improve my skill set to be a good fit, so join me here to experience the projects for yourself. I appreciate you stopping by here, if you have time you can leave a feedback on my medium blogs - https://medium.com/@josephvpeter7
+### Hi there friends 👋 ,I'm Joseph Peter and currently Learning DevOps technologies and doing DevOps projects to improve my skill set to be a good fit, so join me here to experience the projects for yourself. I appreciate you stopping by here, if you have time you can leave a feedback on my medium blogs - https://medium.com/@josephvpeter7
 📫 How to reach me: Twitter: @josephvpeter
 
 <!--
