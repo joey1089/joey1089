@@ -1,5 +1,6 @@
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-### Hello there 👋,I'm Joseph Peter and I'm currently certified in AWS, Terraform and Linux. I'm also currently learning DevOps technologies and doing DevOps related projects along with python to improve my skill set to be a good fit, so check out my projects for yourself. I'm also interested in open source projects.please let me know how can I contribute to your open source project. Thank you.
+### Hi 👋
+I'm Joseph Peter and I'm currently certified in AWS, Terraform and Linux. I'm also currently learning DevOps technologies and doing DevOps related projects along with python to improve my skill set to be a good fit, so check out my projects for yourself. I'm also interested in open source projects.please let me know how can I contribute to your open source project. Thank you.
 
 
 Find out more about me & feel free to connect with me here:
