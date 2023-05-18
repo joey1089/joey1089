@@ -7,11 +7,11 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-* Follow or Connect with me on LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-Joseph%20Peter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephvpeter7/)](https://www.linkedin.com/in/josephvpeter7/) 
+* Follow or Connect with me on LinkedIn:- [![Linkedin Badge](https://img.shields.io/badge/-Joseph%20Peter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephvpeter7/)](https://www.linkedin.com/in/josephvpeter7/) 
 
-* Follow me on Medium for all learning tech posts  [![Medium Badge](https://img.shields.io/badge/Joseph%20Peter-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@josephvpeter7)](https://medium.com/@josephvpeter7) 
+* Follow me on Medium for all learning tech posts:- [![Medium Badge](https://img.shields.io/badge/Joseph%20Peter-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@josephvpeter7)](https://medium.com/@josephvpeter7) 
 
-* Follow me on Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/josephvpeter.svg?style=social&label=Follow%20%40josephvpeter)](https://twitter.com/josephvpeter)
+* Follow me on Twitter:- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/josephvpeter.svg?style=social&label=Follow%20%40josephvpeter)](https://twitter.com/josephvpeter)
 
 ## ⚡ Technologies
 
