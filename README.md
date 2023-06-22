@@ -28,7 +28,7 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=joey1089&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=joey1089&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true) -->
 
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joey1089&hide=TeX&layout=compact&theme=tokyonight)
