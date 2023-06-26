@@ -1,6 +1,8 @@
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-![Joseph-Snow-Caps (1)](https://github.com/joey1089/joey1089/assets/90427049/1dbe657a-f9af-4ad7-84d7-941f0e88e088)
+<!-- 
+![Joseph-Snow-Caps (1)](https://github.com/joey1089/joey1089/assets/90427049/1dbe657a-f9af-4ad7-84d7-941f0e88e088) -->
 
+![Linked-Banner (2)](https://github.com/joey1089/joey1089/assets/90427049/6f962241-19c0-4233-b8d9-f6c2e476f9ed)
 
 I'm a curious learner who is poised to develop and learn about cloud infrastructure development with automation at its core. Also, Former Software Engineer and Quality Control professional with recently published DevOps projects in AWS in Plain English, Python in Plain English, Towards AWS, AWS Tips, FAUN publication, and Level Up in Coding. Poised for immediate transition as DevOps Engineer. 
 
