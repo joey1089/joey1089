@@ -19,7 +19,7 @@ Find out more about me & feel free to connect with me here:
 
 * Follow me on Twitter:- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/josephvpeter.svg?style=social&label=Follow%20%40josephvpeter)](https://twitter.com/josephvpeter)
   
-* Watch my videos on YouTube:- [![YouTube URL](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@cloudytech2learn)](https://www.youtube.com/@cloudytech2learn)
+<!-- * Watch my videos on YouTube:- [![YouTube URL](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@cloudytech2learn)](https://www.youtube.com/@cloudytech2learn) -->
 
 ## ⚡ Technologies
 
