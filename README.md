@@ -2,14 +2,14 @@
 <!-- 
 ![Joseph-Snow-Caps (1)](https://github.com/joey1089/joey1089/assets/90427049/1dbe657a-f9af-4ad7-84d7-941f0e88e088) -->
 
-![Linked-Banner (2)](https://github.com/joey1089/joey1089/assets/90427049/6f962241-19c0-4233-b8d9-f6c2e476f9ed)
+![Linked-Banner (1)](https://github.com/joey1089/joey1089/assets/90427049/be010f4e-bb1b-4a1e-8c5d-baefef32415f)
 
 I'm a curious learner who is poised to develop and learn about cloud infrastructure development with automation at its core. Also, Former Software Engineer and Quality Control professional with recently published DevOps projects in AWS in Plain English, Python in Plain English, Towards AWS, AWS Tips, FAUN publication, and Level Up in Coding. Poised for immediate transition as DevOps Engineer. 
 
 
 Find out more about me & feel free to connect with me here:
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Joseph%20Peter) -->
 
 * Follow or Connect with me on LinkedIn:- [![Linkedin Badge](https://img.shields.io/badge/-Joseph%20Peter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephvpeter7/)](https://www.linkedin.com/in/josephvpeter7/)
   
