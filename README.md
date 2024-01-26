@@ -4,7 +4,7 @@
 
 ![Linked-Banner (1)](https://github.com/joey1089/joey1089/assets/90427049/be010f4e-bb1b-4a1e-8c5d-baefef32415f)
 
-I'm a curious learner who is poised to develop and learn about cloud infrastructure development with automation at its core. Also, Former Software Engineer and Quality Control professional with recently published DevOps projects in AWS in Plain English, Python in Plain English, Towards AWS, AWS Tips, FAUN publication, and Level Up in Coding. Poised for immediate transition as DevOps Engineer. 
+I'm a curious learner who is poised to develop and learn about cloud infrastructure development with automation at its core. Also, Former Software Engineer and Quality Control professional with recently published DevOps projects in AWS in Plain English, Python in Plain English, Towards AWS, AWS Tips, FAUN publication, DevOpsDudes and Level Up in Coding. Poised for immediate transition as DevOps Engineer. 
 
 
 Find out more about me & feel free to connect with me here:
