@@ -17,7 +17,7 @@ Find out more about me & feel free to connect with me here:
 * Follow me on Medium for all learning tech posts:- [![Medium Badge](https://img.shields.io/badge/Joseph%20Peter-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@josephvpeter7)](https://medium.com/@josephvpeter7)
   
 
-* Follow me on Twitter:- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/josephvpeter.svg?style=social&label=Follow%20%40josephvpeter)](https://twitter.com/josephvpeter)
+* Follow me on Twitter:- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/josephvpeter.svg?style=social&label=Follow%20%40josephvpeter7)](https://twitter.com/josephvpeter7)
   
 <!-- * Watch my videos on YouTube:- [![YouTube URL](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@cloudytech2learn)](https://www.youtube.com/@cloudytech2learn) -->
 
