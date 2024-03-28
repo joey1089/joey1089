@@ -4,7 +4,7 @@
 
 ![Linked-Banner (3)](https://github.com/joey1089/joey1089/assets/90427049/a0b3eea0-d2b8-433b-a546-176861c5b27a)
 
-I'm part of AWS community builder and a curious learner who is poised to develop and learn about cloud infrastructure development with automation at its core. Also, Former Software Engineer and Quality Control professional with recently published DevOps projects in AWS in Plain English, Python in Plain English, Towards AWS, AWS Tips, FAUN publication, DevOpsDudes and Level Up in Coding. Poised for immediate transition as DevOps Engineer. 
+I'm part of AWS community builder program and a curious learner who is poised to develop and learn about cloud infrastructure development with automation at its core. Also, Former Software Engineer and Quality Control professional with recently published DevOps projects in AWS in Plain English, Python in Plain English, Towards AWS, AWS Tips, FAUN publication, DevOpsDudes and Level Up in Coding. Poised to provide cloud based solutions. 
 
 
 Find out more about me & feel free to connect with me here:
